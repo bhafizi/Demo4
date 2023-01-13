@@ -8,3 +8,5 @@ public class Update {
 
 	 Private add(int a,int b);
 }
+Private add(double a,int b);
+}
